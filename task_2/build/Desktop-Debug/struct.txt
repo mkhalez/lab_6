@@ -1,0 +1,56 @@
+Population: 5
+GDP: 12
+First Letter: q
+In War: Yes
+Name: qwerty
+Taxes: 1, 2, 0
+----------------------------
+Population: 120000
+GDP: 12
+First Letter: b
+In War: Yes
+Name: Belarus
+Taxes: 0, 12, 49
+----------------------------
+Population: 1
+GDP: 1
+First Letter: 1
+In War: Yes
+Name: 1
+Taxes: 1, 1, 1
+----------------------------
+Population: 13
+GDP: 0.2
+First Letter: G
+In War: Yes
+Name: German
+Taxes: 67, 86, 45
+----------------------------
+Population: 6
+GDP: 6
+First Letter: 6
+In War: Yes
+Name: 6
+Taxes: 6, 6, 6
+----------------------------
+Population: 8
+GDP: 8
+First Letter: 8
+In War: Yes
+Name: 8
+Taxes: 8, 8, 8
+----------------------------
+Population: 33
+GDP: 3
+First Letter: 3
+In War: Yes
+Name: 33333
+Taxes: 0, 1, 2
+----------------------------
+Population: 34
+GDP: 43
+First Letter: w
+In War: Yes
+Name: wert
+Taxes: 2, 4, 6
+----------------------------
